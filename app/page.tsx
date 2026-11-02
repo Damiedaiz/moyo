@@ -8,7 +8,7 @@ const products: Product[] = [
  { id:1,name:"The Sol Pendant",category:"Necklaces",note:"A little light for every day",image:"https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=1000&q=85",tag:"Bestseller" },
  { id:2,name:"Golden Hour Hoops",category:"Earrings",note:"Your everyday statement",image:"https://images.unsplash.com/photo-1617038220319-276d3cfab638?auto=format&fit=crop&w=1000&q=85" },
  { id:3,name:"Sculpted Gold Cuff",category:"Bracelets",note:"Sculptural, simple, unforgettable",image:"https://images.unsplash.com/photo-1611652022419-a9419f74343d?auto=format&fit=crop&w=1000&q=85",tag:"New in" },
- { id:4,name:"Pearl Muse Drops",category:"Earrings",note:"Soft elegance, day to night",image:"https://images.unsplash.com/photo-1635767798638-3665a6f4c7c7?auto=format&fit=crop&w=1000&q=85" },
+ { id:4,name:"Pearl Muse Drops",category:"Earrings",note:"Soft elegance, day to night",image:"https://images.unsplash.com/photo-1623303179820-de8ec58b03dc?auto=format&fit=crop&w=1000&q=85" },
  { id:5,name:"The Layering Chain",category:"Necklaces",note:"Made for your signature stack",image:"https://images.unsplash.com/photo-1611591437281-460bfbe1220a?auto=format&fit=crop&w=1000&q=85" },
  { id:6,name:"Everyday Signet",category:"Rings",note:"A detail that says everything",image:"https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=1000&q=85",tag:"Loved" },
  { id:7,name:"Dewdrop Bracelet",category:"Bracelets",note:"A delicate finishing touch",image:"https://images.unsplash.com/photo-1611652022419-a9419f74343d?auto=format&fit=crop&w=1000&q=85" },
